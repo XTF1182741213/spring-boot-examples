@@ -1,4 +1,4 @@
-# Spring Boot Examples
+# Spring Boot Example
 
 This tutorial is about learning Spring Boot via examples.
 
